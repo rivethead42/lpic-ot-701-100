@@ -15,3 +15,7 @@ enabled=1
 autorefresh=1
 type=rpm-md
 ```
+
+```
+https://github.com/linuxacademy/content-elastic-log-samples
+```
